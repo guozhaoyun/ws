@@ -3,7 +3,7 @@ package data
 import (
 	"sync/atomic"
 
-	"github.com/flipped-aurora/ws/core/biz"
+	"github.com/guozhaoyun/ws/core/biz"
 
 	"context"
 )
