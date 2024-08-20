@@ -4,8 +4,8 @@ import (
 	"math/rand"
 	"time"
 
+	"github.com/coder/websocket"
 	"github.com/gin-gonic/gin"
-	"nhooyr.io/websocket"
 )
 
 const CheckNull = "CheckNull"

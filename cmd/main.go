@@ -7,10 +7,10 @@ import (
 	"github.com/guozhaoyun/ws/core/biz"
 	"github.com/guozhaoyun/ws/core/data"
 
+	"github.com/coder/websocket"
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
-	"nhooyr.io/websocket"
 )
 
 // Init logger初始化

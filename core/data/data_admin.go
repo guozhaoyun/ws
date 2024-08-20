@@ -6,9 +6,9 @@ import (
 
 	"github.com/guozhaoyun/ws/core/biz"
 
+	"github.com/coder/websocket"
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
-	"nhooyr.io/websocket"
 )
 
 // Admin 最终用户拿到的实体对象
